@@ -1,7 +1,7 @@
 # hello-world
 Just a repository.
 
-Daddy is the cleverest
+Daddy is not the cleverest
 
 I like waffles and progamming, so I should be WaffleProgram.
 
